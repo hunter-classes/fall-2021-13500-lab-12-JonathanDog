@@ -1,8 +1,8 @@
 * Fall 2021 - Lab 12
 
-* Last name:
+* Last name: Shnayder
 
-* First name:
+* First name: Jonathan
 
 * GitHub username:
 
