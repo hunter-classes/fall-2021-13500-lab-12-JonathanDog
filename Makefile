@@ -10,4 +10,5 @@ main.o: main.cpp funcs.h
 
 funcs.o: funcs.cpp 
 
-clean: rm -f main.o funcs.o tests.o
+clean: 
+	rm -f main.o funcs.o tests.o
